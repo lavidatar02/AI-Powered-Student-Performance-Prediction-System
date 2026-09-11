@@ -1,0 +1,23 @@
+/* Default to the product's light workspace even when the OS prefers dark. */
+@media (prefers-color-scheme: dark) {
+  :root:not(.dark) {
+    color-scheme: light;
+    --background: oklch(0.985 0.004 255);
+    --foreground: oklch(0.18 0.03 255);
+    --card: oklch(1 0 0);
+    --card-foreground: oklch(0.18 0.03 255);
+    --popover: oklch(1 0 0);
+    --popover-foreground: oklch(0.18 0.03 255);
+    --primary: oklch(0.55 0.22 255);
+    --primary-foreground: oklch(1 0 0);
+    --secondary: oklch(0.18 0.03 255);
+    --secondary-foreground: oklch(1 0 0);
+    --muted: oklch(0.96 0.01 255);
+    --muted-foreground: oklch(0.5 0.03 255);
+    --accent: oklch(0.73 0.15 195);
+    --accent-foreground: oklch(0.22 0.04 195);
+    --border: oklch(0.91 0.02 255);
+    --input: oklch(0.91 0.02 255);
+    --ring: oklch(0.55 0.22 255);
+  }
+}
