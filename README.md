@@ -386,7 +386,7 @@ The application will then be available through the local development server.
 
 ### 📑 Reports
 
-![Reports](screenshots/reports.png)
+![Reports_alt](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/06_reports.png?raw=true)
 
 
 ---
