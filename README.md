@@ -366,7 +366,7 @@ The application will then be available through the local development server.
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page]([screenshots/home.png](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/01_home_page.png?raw=true))
 
 ### 📊 Dashboard
 
