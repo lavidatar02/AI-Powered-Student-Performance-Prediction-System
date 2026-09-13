@@ -217,8 +217,6 @@ AI-Powered-Student-Performance-Prediction-System
 └── README.md
 ```
 
-> **Note:** Update the structure above if the final repository organization is different.
-
 ---
 
 ## 🗄️ Data Persistence
