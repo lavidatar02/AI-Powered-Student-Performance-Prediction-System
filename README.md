@@ -191,38 +191,29 @@ Dashboard & Reports
 ## 🏗️ Project Structure
 
 ```text
-AI-Powered-Student-Performance-Prediction-System/
+AI-Powered-Student-Performance-Prediction-System
 │
 ├── app/
-│   ├── ...
-│
 ├── backend/
 │   ├── api/
-│   ├── database/
 │   ├── ml/
 │   ├── main.py
 │   ├── schemas.py
-│   └── requirements.txt
+│   ├── requirements.txt
+│   └── test_predictor.py
 │
 ├── components/
-│   ├── ...
-│
 ├── lib/
-│   ├── ...
-│
 ├── public/
-│   ├── ...
-│
 ├── ui/
-│   ├── ...
 │
+├── .gitignore
+├── next.config.*
 ├── package.json
 ├── pnpm-lock.yaml
 ├── pnpm-workspace.yaml
-├── tsconfig.json
 ├── postcss.config.*
-├── next.config.*
-├── .gitignore
+├── tsconfig.json
 └── README.md
 ```
 
