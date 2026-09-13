@@ -423,10 +423,6 @@ Predictions are not guaranteed outcomes and should not be used as the sole basis
 
 This project was designed and developed as an AI/ML-based academic project to explore **student performance prediction, data analysis, Machine Learning, and modern web application development**.
 
-* 💻 **GitHub:** https://github.com/lavidatar
-* 🔗 **LinkedIn:** https://linkedin.com/in/lavidatar
-* 🌐 **Portfolio:** https://lavis-portfolio--lavidatar02.replit.app/
-
 ---
 
 ## ⭐ Support
