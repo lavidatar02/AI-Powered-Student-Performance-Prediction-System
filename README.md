@@ -382,7 +382,7 @@ The application will then be available through the local development server.
 
 ### 📈 Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics_alt](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/05_analytics.png?raw=true)
 
 ### 📑 Reports
 
