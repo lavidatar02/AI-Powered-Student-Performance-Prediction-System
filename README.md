@@ -298,7 +298,7 @@ Password: pass1234
 ### 1. Clone the Repository
 
 ```bash
-(https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/tree/main)
+https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/tree/main
 ```
 
 ### 2. Navigate to the Project
