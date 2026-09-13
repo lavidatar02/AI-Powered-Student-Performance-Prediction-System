@@ -366,7 +366,7 @@ The application will then be available through the local development server.
 
 ### 🏠 Home Page
 
-![Home Page_alt]([screenshots/home.png](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/01_home_page.png?raw=true))
+![Home Page_alt](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/01_home_page.png?raw=true)
 
 ### 📊 Dashboard
 
@@ -388,7 +388,6 @@ The application will then be available through the local development server.
 
 ![Reports](screenshots/reports.png)
 
-> Replace the screenshot paths with the actual screenshot locations in your repository.
 
 ---
 
