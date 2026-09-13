@@ -370,7 +370,7 @@ The application will then be available through the local development server.
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard_alt](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/02_dashboard.png?raw=true)
 
 ### 🔮 Prediction
 
