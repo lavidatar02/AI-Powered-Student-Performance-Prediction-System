@@ -378,7 +378,7 @@ The application will then be available through the local development server.
 
 ### 👨‍🎓 Students
 
-![Students](screenshots/students.png)
+![Students_alt](https://github.com/lavidatar02/AI-Powered-Student-Performance-Prediction-System/blob/main/04_students.png?raw=true)
 
 ### 📈 Analytics
 
